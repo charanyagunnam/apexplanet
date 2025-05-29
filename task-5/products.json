@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Organic Tomato",
+    "price": "$2.99",
+    "image": "images/tomato.jpg"
+  },
+  {
+    "name": "Fresh Carrots",
+    "price": "$1.49",
+    "image": "images/carrots.jpg"
+  },
+  {
+    "name": "Green Broccoli",
+    "price": "$1.99",
+    "image": "images/broccoli.jpg"
+  }
+]
